@@ -1,2 +1,2 @@
 The individual data is on our google drive, and it is too large to be uploaded to GitHub. The code in SCRIPTS pulls the data from GoogleDrive and creates the Final Dataset. 
-The Final Dataset is simply the .png file paths, which only actually pull the files if you have the original data in /content on GitHub. 
+The Final Dataset is simply the .png file paths, which only actually pull the files if you have the original data in /content on Google Colab. 
