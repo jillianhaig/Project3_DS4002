@@ -4,7 +4,7 @@
 This repository contains all the necessary files and information to analyze vehicle image data. It contains a Data, Output, and Scripts folder where the user can find all of the csv files used to obtain the data, as well as scripts used for transforming and analyzing the final dataset. The repository also contains the README (this file) and the LICENSE markdown files, as well as the final presentation slides for the project. 
 
 ## Section 1: Software and platforms used 
-The Python programming language was used for all analysis and coding for this project. The packages used in this project that need to be installed include: _______________________. Both Mac and Windows platforms were used in this project.
+The Python programming language was used for all analysis and coding for this project. The packages used in this project that need to be installed include: drive, files, zipfile, os, pandas, seaborn, matplotlib.pyplot, tensorflow, layers, models, ResNet50, ImageDataGenerator, train_test_split, EarlyStopping, StratifiedKFold, f1_score, accuracy_score, and numpy. Both Mac and Windows platforms were used in this project.
 
 ## Section 2: Map of documentation 
 The Project2_DS4002 repository contains the following folders and files:
